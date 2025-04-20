@@ -38,9 +38,9 @@ This repo contains 3 main Jupyter Notebooks:
 
 ## justice1.2.ipynb — made for kaggle submission
 
-  • this code was modified to give the final verdict as 0 or 1
-  • tried to implement concurrent.futures but rate limit was exceeded
-  • finally this failed and i had to make another notebook that takes in whole case_summary and judge inspects it to give final verdict directly wihout any intermediate         discussions
+        • this code was modified to give the final verdict as 0 or 1
+        • tried to implement concurrent.futures but rate limit was exceeded
+        • finally this failed and i had to make another notebook that takes in whole case_summary and judge inspects it to give final verdict directly wihout any intermediate         discussions
 
 ## tech stack
 	•	Python
